@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_label">About</string>
+    <string name="about_title">About Props ID for Sakura</string>
+    <string name="ad_loading">Loading ad…</string>
+    <string name="ad_not_available">Ad not available. Please try again later.</string>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="app_name">Props ID for Sakura</string>
+    <string name="blurred_id_placeholder">••••••••••••••</string>
+    <string name="category_label">Category</string>
+    <string name="close">Close</string>
+    <string name="copy_id">Copy ID</string>
+    <string name="disclaimer_agree">I Understand</string>
+    <string name="disclaimer_dialog_message">This app is unofficial and not affiliated with Garusoft or Sakura School Simulator. All trademarks are the property of their respective owners.</string>
+    <string name="disclaimer_dialog_title">Notice</string>
+    <string name="disclaimer_full">This app is unofficial and not affiliated with Garusoft or Sakura School Simulator. All trademarks are the property of their respective owners.</string>
+    <string name="disclaimer_short">This app is unofficial and not affiliated with Garusoft or Sakura School Simulator.</string>
+    <string name="empty_list">No props found.</string>
+    <string name="error_loading">Failed to load data. Check your connection…</string>
+    <string name="favorites_empty">No favorites yet.\nAdd your favorite props!</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="id_copied">ID copied to clipboard!</string>
+    <string name="language_en">English</string>
+    <string name="language_id">Bahasa Indonesia</string>
+    <string name="language_label">Language</string>
+    <string name="legal_section">Legal &amp; Info</string>
+    <string name="loading">Loading…</string>
+    <string name="locked">Locked</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+    <string name="no_connection">No internet connection.</string>
+    <string name="ok">OK</string>
+    <string name="pref_section">Preferences</string>
+    <string name="privacy_policy_label">Privacy Policy</string>
+    <string name="privacy_settings_label">Privacy Settings</string>
+    <string name="prop_id_label">Props ID</string>
+    <string name="remove_favorite">Remove from favorites</string>
+    <string name="retry">Retry</string>
+    <string name="search_hint">Search props…</string>
+    <string name="settings_title">Settings</string>
+    <string name="share">Share</string>
+    <string name="share_text">Props: %1$s\nCategory: %2$s\nID: %3$s\n\nFind more props IDs at:\nhttps://play.google.com/store/apps/details?id=com.test.propsid4sakura</string>
+    <string name="share_title">Share Props</string>
+    <string name="tab_all">All</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_label">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_system">System Default</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="version_label">Version %1$s</string>
+    <string name="watch_ad_to_unlock">Watch an ad to unlock ID</string>
+</resources>

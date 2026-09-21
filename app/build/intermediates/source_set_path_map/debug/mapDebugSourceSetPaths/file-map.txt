@@ -1,0 +1,81 @@
+com.test.propsid4sakura.app-emoji2-views-helper-1.3.0-0 C:\Users\webhe\.gradle\caches\8.9\transforms\05ae8c5f315caf6dbb4862af20fbcaeb\transformed\emoji2-views-helper-1.3.0\res
+com.test.propsid4sakura.app-activity-1.9.3-1 C:\Users\webhe\.gradle\caches\8.9\transforms\0a95842b1753ad228d6f441f8bc47ae6\transformed\activity-1.9.3\res
+com.test.propsid4sakura.app-lifecycle-service-2.8.7-2 C:\Users\webhe\.gradle\caches\8.9\transforms\0d9833680dccafc2b4408d649a14c036\transformed\lifecycle-service-2.8.7\res
+com.test.propsid4sakura.app-core-ktx-1.15.0-3 C:\Users\webhe\.gradle\caches\8.9\transforms\111931596b308069e2ed8c54691b3ec5\transformed\core-ktx-1.15.0\res
+com.test.propsid4sakura.app-animation-release-4 C:\Users\webhe\.gradle\caches\8.9\transforms\1158fb37a7d8213a8b88dd8b58c78d63\transformed\animation-release\res
+com.test.propsid4sakura.app-material-icons-core-release-5 C:\Users\webhe\.gradle\caches\8.9\transforms\1761e8291d033428ae3ead905c6ee610\transformed\material-icons-core-release\res
+com.test.propsid4sakura.app-core-splashscreen-1.0.1-6 C:\Users\webhe\.gradle\caches\8.9\transforms\2551354b0ccaad93d4fa8891969f655c\transformed\core-splashscreen-1.0.1\res
+com.test.propsid4sakura.app-navigation-common-2.8.4-7 C:\Users\webhe\.gradle\caches\8.9\transforms\27a2d974c64b4c13bd4f7872a06cccb5\transformed\navigation-common-2.8.4\res
+com.test.propsid4sakura.app-material3-release-8 C:\Users\webhe\.gradle\caches\8.9\transforms\281ecfd423b34aed809dc27fd85e0593\transformed\material3-release\res
+com.test.propsid4sakura.app-lifecycle-process-2.8.7-9 C:\Users\webhe\.gradle\caches\8.9\transforms\2caf61d71d8be7da3b7d9c718aa3134a\transformed\lifecycle-process-2.8.7\res
+com.test.propsid4sakura.app-play-services-base-18.0.0-10 C:\Users\webhe\.gradle\caches\8.9\transforms\2cf4c04deb6e0a8547a38ce8f0373cf4\transformed\play-services-base-18.0.0\res
+com.test.propsid4sakura.app-room-runtime-2.6.1-11 C:\Users\webhe\.gradle\caches\8.9\transforms\2ee364fa5de58bf99f32a41b1b101c7d\transformed\room-runtime-2.6.1\res
+com.test.propsid4sakura.app-runtime-saveable-release-12 C:\Users\webhe\.gradle\caches\8.9\transforms\326a2980f15cd4d024614719f44e6860\transformed\runtime-saveable-release\res
+com.test.propsid4sakura.app-customview-poolingcontainer-1.0.0-13 C:\Users\webhe\.gradle\caches\8.9\transforms\33b656545943b5c48460f671e20d9016\transformed\customview-poolingcontainer-1.0.0\res
+com.test.propsid4sakura.app-sqlite-framework-2.4.0-14 C:\Users\webhe\.gradle\caches\8.9\transforms\3422235549ace3a07945bf1d4df3108a\transformed\sqlite-framework-2.4.0\res
+com.test.propsid4sakura.app-webkit-1.11.0-alpha02-15 C:\Users\webhe\.gradle\caches\8.9\transforms\368c3b4a10eb098cac26a5f9b70ee23d\transformed\webkit-1.11.0-alpha02\res
+com.test.propsid4sakura.app-appcompat-1.7.0-16 C:\Users\webhe\.gradle\caches\8.9\transforms\3b413645d6cf837d4800e8decc0c9a30\transformed\appcompat-1.7.0\res
+com.test.propsid4sakura.app-material-release-17 C:\Users\webhe\.gradle\caches\8.9\transforms\3dcc7b8f6cc3942f4e38df8fdabc5415\transformed\material-release\res
+com.test.propsid4sakura.app-ui-release-18 C:\Users\webhe\.gradle\caches\8.9\transforms\44906cbcc7514e96ff1aca00454a23f0\transformed\ui-release\res
+com.test.propsid4sakura.app-navigation-common-ktx-2.8.4-19 C:\Users\webhe\.gradle\caches\8.9\transforms\46c29b054133cf97df9a060a96779acc\transformed\navigation-common-ktx-2.8.4\res
+com.test.propsid4sakura.app-play-services-ads-lite-23.6.0-20 C:\Users\webhe\.gradle\caches\8.9\transforms\48811b663043a31485a0715d79ba8108\transformed\play-services-ads-lite-23.6.0\res
+com.test.propsid4sakura.app-lifecycle-viewmodel-ktx-2.8.7-21 C:\Users\webhe\.gradle\caches\8.9\transforms\4c2ef64d0e165463ec525cad0fd907ac\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.test.propsid4sakura.app-animation-core-release-22 C:\Users\webhe\.gradle\caches\8.9\transforms\4e733f15c7b08306a6c532aaba75aac1\transformed\animation-core-release\res
+com.test.propsid4sakura.app-datastore-preferences-release-23 C:\Users\webhe\.gradle\caches\8.9\transforms\4f2f4220eb5500018e103be4e6bcf61d\transformed\datastore-preferences-release\res
+com.test.propsid4sakura.app-ui-util-release-24 C:\Users\webhe\.gradle\caches\8.9\transforms\52537c33af589e02e1f4d7c6100b887a\transformed\ui-util-release\res
+com.test.propsid4sakura.app-play-services-basement-18.4.0-25 C:\Users\webhe\.gradle\caches\8.9\transforms\52689558bc49527a4b8f2fe276c971c5\transformed\play-services-basement-18.4.0\res
+com.test.propsid4sakura.app-navigation-compose-2.8.4-26 C:\Users\webhe\.gradle\caches\8.9\transforms\54256313dc567ce192f51f9c3f9e19fd\transformed\navigation-compose-2.8.4\res
+com.test.propsid4sakura.app-navigation-runtime-2.8.4-27 C:\Users\webhe\.gradle\caches\8.9\transforms\55b167aacfed5c1013d448498ff84044\transformed\navigation-runtime-2.8.4\res
+com.test.propsid4sakura.app-navigation-runtime-ktx-2.8.4-28 C:\Users\webhe\.gradle\caches\8.9\transforms\5afca50a34afd4814c948dfda3a2a852\transformed\navigation-runtime-ktx-2.8.4\res
+com.test.propsid4sakura.app-ui-graphics-release-29 C:\Users\webhe\.gradle\caches\8.9\transforms\608a052d3f3ac89cf17df3c3fee4dfb0\transformed\ui-graphics-release\res
+com.test.propsid4sakura.app-foundation-release-30 C:\Users\webhe\.gradle\caches\8.9\transforms\6849254fe9a0c3ccf696936215adbf0d\transformed\foundation-release\res
+com.test.propsid4sakura.app-lifecycle-runtime-release-31 C:\Users\webhe\.gradle\caches\8.9\transforms\690149558d14674a69ed92be9d6005e3\transformed\lifecycle-runtime-release\res
+com.test.propsid4sakura.app-lifecycle-viewmodel-savedstate-2.8.7-32 C:\Users\webhe\.gradle\caches\8.9\transforms\6f84a33596fc7574cd648042035e1c41\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.test.propsid4sakura.app-tracing-1.2.0-33 C:\Users\webhe\.gradle\caches\8.9\transforms\71cc6ab6e7c34100c71b12ce989c9d84\transformed\tracing-1.2.0\res
+com.test.propsid4sakura.app-sqlite-2.4.0-34 C:\Users\webhe\.gradle\caches\8.9\transforms\735fa1e4a0181fadc4fa76e6aeeeb7c3\transformed\sqlite-2.4.0\res
+com.test.propsid4sakura.app-ui-geometry-release-35 C:\Users\webhe\.gradle\caches\8.9\transforms\77dad5c50c2a8095017153e1354e7ed4\transformed\ui-geometry-release\res
+com.test.propsid4sakura.app-profileinstaller-1.3.1-36 C:\Users\webhe\.gradle\caches\8.9\transforms\7a0418ba416d2a244934508c80cab2d0\transformed\profileinstaller-1.3.1\res
+com.test.propsid4sakura.app-ui-tooling-preview-release-37 C:\Users\webhe\.gradle\caches\8.9\transforms\7b0e8ed7adcc0d5886762e81fd51e505\transformed\ui-tooling-preview-release\res
+com.test.propsid4sakura.app-foundation-layout-release-38 C:\Users\webhe\.gradle\caches\8.9\transforms\938fbc810a26706c7ce55f484317aad3\transformed\foundation-layout-release\res
+com.test.propsid4sakura.app-savedstate-ktx-1.2.1-39 C:\Users\webhe\.gradle\caches\8.9\transforms\93bc8fd14a8deed3b7720d38076b61b8\transformed\savedstate-ktx-1.2.1\res
+com.test.propsid4sakura.app-runtime-release-40 C:\Users\webhe\.gradle\caches\8.9\transforms\96c0e53c4f24b46e4cec4e8efd068701\transformed\runtime-release\res
+com.test.propsid4sakura.app-ads-adservices-1.0.0-beta05-41 C:\Users\webhe\.gradle\caches\8.9\transforms\9d0a300fe94516b32add4eee634818fa\transformed\ads-adservices-1.0.0-beta05\res
+com.test.propsid4sakura.app-annotation-experimental-1.4.1-42 C:\Users\webhe\.gradle\caches\8.9\transforms\9d3a2e3f168acaff6a65a70de45c5b11\transformed\annotation-experimental-1.4.1\res
+com.test.propsid4sakura.app-lifecycle-livedata-2.8.7-43 C:\Users\webhe\.gradle\caches\8.9\transforms\9d5193639586ef2f4270fe5fc5a8f70b\transformed\lifecycle-livedata-2.8.7\res
+com.test.propsid4sakura.app-ui-tooling-release-44 C:\Users\webhe\.gradle\caches\8.9\transforms\9dc52252d44aa20164333cdf65ac5e21\transformed\ui-tooling-release\res
+com.test.propsid4sakura.app-browser-1.8.0-45 C:\Users\webhe\.gradle\caches\8.9\transforms\a11e4389b5306873237f15d900f3ee67\transformed\browser-1.8.0\res
+com.test.propsid4sakura.app-ui-text-release-46 C:\Users\webhe\.gradle\caches\8.9\transforms\a23650d8f299926811787d0c1a8abc62\transformed\ui-text-release\res
+com.test.propsid4sakura.app-datastore-release-47 C:\Users\webhe\.gradle\caches\8.9\transforms\a7e2c4bce840a1f646f519d51be68d18\transformed\datastore-release\res
+com.test.propsid4sakura.app-room-ktx-2.6.1-48 C:\Users\webhe\.gradle\caches\8.9\transforms\a8f8d28460a3a59e0506b4c389edccc6\transformed\room-ktx-2.6.1\res
+com.test.propsid4sakura.app-ui-unit-release-49 C:\Users\webhe\.gradle\caches\8.9\transforms\a9edd2b414f2b5485d60b8fb7addca10\transformed\ui-unit-release\res
+com.test.propsid4sakura.app-startup-runtime-1.1.1-50 C:\Users\webhe\.gradle\caches\8.9\transforms\aa05126ea2e4eec24cfd6cd323386d42\transformed\startup-runtime-1.1.1\res
+com.test.propsid4sakura.app-ads-adservices-java-1.0.0-beta05-51 C:\Users\webhe\.gradle\caches\8.9\transforms\b5ae948b799d90885e1d601d715e7659\transformed\ads-adservices-java-1.0.0-beta05\res
+com.test.propsid4sakura.app-work-runtime-2.7.0-52 C:\Users\webhe\.gradle\caches\8.9\transforms\b5eb9574c23a89653634ac673b1443aa\transformed\work-runtime-2.7.0\res
+com.test.propsid4sakura.app-ui-tooling-data-release-53 C:\Users\webhe\.gradle\caches\8.9\transforms\b65100c9f3903feece80e62627905d13\transformed\ui-tooling-data-release\res
+com.test.propsid4sakura.app-core-runtime-2.2.0-54 C:\Users\webhe\.gradle\caches\8.9\transforms\bdf3142f43a27d625ff25910af1942e5\transformed\core-runtime-2.2.0\res
+com.test.propsid4sakura.app-lifecycle-viewmodel-compose-release-55 C:\Users\webhe\.gradle\caches\8.9\transforms\c0d7a72c2108ee13b98b48f3e3fc0631\transformed\lifecycle-viewmodel-compose-release\res
+com.test.propsid4sakura.app-emoji2-1.3.0-56 C:\Users\webhe\.gradle\caches\8.9\transforms\c38df0793fdf8c959278f7b5fd321595\transformed\emoji2-1.3.0\res
+com.test.propsid4sakura.app-fragment-1.6.2-57 C:\Users\webhe\.gradle\caches\8.9\transforms\c548c16008454060f982caf6ad666f52\transformed\fragment-1.6.2\res
+com.test.propsid4sakura.app-play-services-ads-23.6.0-58 C:\Users\webhe\.gradle\caches\8.9\transforms\cf3ec360be3242ffadd4c6c8192e62cb\transformed\play-services-ads-23.6.0\res
+com.test.propsid4sakura.app-lifecycle-viewmodel-release-59 C:\Users\webhe\.gradle\caches\8.9\transforms\cfb24ce506e655bf53fb084ba71b9f5e\transformed\lifecycle-viewmodel-release\res
+com.test.propsid4sakura.app-lifecycle-runtime-ktx-release-60 C:\Users\webhe\.gradle\caches\8.9\transforms\d4474f333d5e4331ffe95bc55a5d7f7a\transformed\lifecycle-runtime-ktx-release\res
+com.test.propsid4sakura.app-activity-compose-1.9.3-61 C:\Users\webhe\.gradle\caches\8.9\transforms\d61b3f00ded652bb9ab539b03bbc56d8\transformed\activity-compose-1.9.3\res
+com.test.propsid4sakura.app-appcompat-resources-1.7.0-62 C:\Users\webhe\.gradle\caches\8.9\transforms\d68321821c6b4148c4be2e5a9fd3ece5\transformed\appcompat-resources-1.7.0\res
+com.test.propsid4sakura.app-lifecycle-livedata-core-2.8.7-63 C:\Users\webhe\.gradle\caches\8.9\transforms\e18137a4aeb9d348613ab3fda7a20978\transformed\lifecycle-livedata-core-2.8.7\res
+com.test.propsid4sakura.app-savedstate-1.2.1-64 C:\Users\webhe\.gradle\caches\8.9\transforms\e239e6e7bfdfd03f0d093e770a0d2f8a\transformed\savedstate-1.2.1\res
+com.test.propsid4sakura.app-datastore-core-release-65 C:\Users\webhe\.gradle\caches\8.9\transforms\e251c974110b390873bd57da43157c10\transformed\datastore-core-release\res
+com.test.propsid4sakura.app-fragment-ktx-1.6.2-66 C:\Users\webhe\.gradle\caches\8.9\transforms\e56520ae946610d631ace0c5a6992c5a\transformed\fragment-ktx-1.6.2\res
+com.test.propsid4sakura.app-activity-ktx-1.9.3-67 C:\Users\webhe\.gradle\caches\8.9\transforms\e58c5063e5394b89b22ee68dc168a147\transformed\activity-ktx-1.9.3\res
+com.test.propsid4sakura.app-material-ripple-release-68 C:\Users\webhe\.gradle\caches\8.9\transforms\e8889127d65e8f1dda75d4ce0d886f11\transformed\material-ripple-release\res
+com.test.propsid4sakura.app-graphics-path-1.0.1-69 C:\Users\webhe\.gradle\caches\8.9\transforms\eefda26d986b57b0e52319c88dea385a\transformed\graphics-path-1.0.1\res
+com.test.propsid4sakura.app-lifecycle-runtime-compose-release-70 C:\Users\webhe\.gradle\caches\8.9\transforms\f4ba95942bf912a960197f99c95bd202\transformed\lifecycle-runtime-compose-release\res
+com.test.propsid4sakura.app-lifecycle-livedata-core-ktx-2.8.7-71 C:\Users\webhe\.gradle\caches\8.9\transforms\fabe8f1e7367424773ae12c31612400f\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.test.propsid4sakura.app-coil-base-2.7.0-72 C:\Users\webhe\.gradle\caches\8.9\transforms\fe66ff451fe33e099380bd6c74a2682c\transformed\coil-base-2.7.0\res
+com.test.propsid4sakura.app-core-1.15.0-73 C:\Users\webhe\.gradle\caches\8.9\transforms\feb2ba5e9abe65b9757033573e532cde\transformed\core-1.15.0\res
+com.test.propsid4sakura.app-pngs-74 C:\Users\webhe\Downloads\MSI\Local Sites\propsid4sakura\app\build\generated\res\pngs\debug
+com.test.propsid4sakura.app-resValues-75 C:\Users\webhe\Downloads\MSI\Local Sites\propsid4sakura\app\build\generated\res\resValues\debug
+com.test.propsid4sakura.app-packageDebugResources-76 C:\Users\webhe\Downloads\MSI\Local Sites\propsid4sakura\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.test.propsid4sakura.app-packageDebugResources-77 C:\Users\webhe\Downloads\MSI\Local Sites\propsid4sakura\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.test.propsid4sakura.app-debug-78 C:\Users\webhe\Downloads\MSI\Local Sites\propsid4sakura\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.test.propsid4sakura.app-debug-79 C:\Users\webhe\Downloads\MSI\Local Sites\propsid4sakura\app\src\debug\res
+com.test.propsid4sakura.app-main-80 C:\Users\webhe\Downloads\MSI\Local Sites\propsid4sakura\app\src\main\res

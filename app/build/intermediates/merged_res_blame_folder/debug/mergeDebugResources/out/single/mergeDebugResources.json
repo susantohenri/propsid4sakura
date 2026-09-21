@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\drawable_ic_image_error.xml.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\drawable\\ic_image_error.xml"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\layout_native_ad_layout.xml.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\layout\\native_ad_layout.xml"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\drawable_ic_image_placeholder.xml.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\drawable\\ic_image_placeholder.xml"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\xml_locales_config.xml.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\xml\\locales_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-debug-78:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\webhe\\.gradle\\daemon\\8.9\\com.test.propsid4sakura.app-main-80:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "com.test.propsid4sakura.app-debug-78:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.test.propsid4sakura.app-main-80:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Props ID for Sakura</string>
+
+    <!-- Home Screen -->
+    <string name="tab_all">Semua</string>
+    <string name="search_hint">Cari props…</string>
+    <string name="nav_favorites">Favorit</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <!-- Props States -->
+    <string name="locked">Terkunci</string>
+    <string name="unlocked">Terbuka</string>
+    <string name="watch_ad_to_unlock">Tonton iklan untuk buka ID</string>
+    <string name="ad_loading">Memuat iklan…</string>
+    <string name="ad_not_available">Iklan tidak tersedia. Coba lagi nanti.</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="copy_id">Salin ID</string>
+    <string name="share">Bagikan</string>
+    <string name="id_copied">ID berhasil disalin!</string>
+    <string name="add_favorite">Tambah ke favorit</string>
+    <string name="remove_favorite">Hapus dari favorit</string>
+
+    <!-- Share text (bilingual) -->
+    <string name="share_text">Props: %1$s\nKategori: %2$s\nID: %3$s\n\nTemukan lebih banyak props ID di:\nhttps://play.google.com/store/apps/details?id=com.test.propsid4sakura</string>
+    <string name="share_title">Bagikan Props</string>
+
+    <!-- Detail Screen -->
+    <string name="prop_id_label">ID Props</string>
+    <string name="category_label">Kategori</string>
+    <string name="blurred_id_placeholder">••••••••••••••</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites_title">Favorit</string>
+    <string name="favorites_empty">Belum ada favorit.\nTambahkan props favoritmu!</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="pref_section">Preferensi</string>
+    <string name="language_label">Bahasa</string>
+    <string name="language_id">Bahasa Indonesia</string>
+    <string name="language_en">English</string>
+    <string name="theme_label">Tema</string>
+    <string name="theme_system">Ikut Sistem</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+    <string name="legal_section">Legal &amp; Info</string>
+    <string name="about_label">Tentang Aplikasi</string>
+    <string name="privacy_policy_label">Kebijakan Privasi</string>
+    <string name="privacy_settings_label">Pengaturan Privasi</string>
+
+    <!-- About Dialog -->
+    <string name="about_title">Tentang Props ID for Sakura</string>
+    <string name="version_label">Versi %1$s</string>
+    <string name="disclaimer_short">Aplikasi ini tidak resmi dan tidak berafiliasi dengan Garusoft atau Sakura School Simulator.</string>
+    <string name="disclaimer_full">Aplikasi ini tidak resmi dan tidak berafiliasi dengan Garusoft atau Sakura School Simulator. Semua merek dagang adalah milik pemiliknya masing-masing.</string>
+    <string name="close">Tutup</string>
+    <string name="ok">OK</string>
+
+    <!-- Loading / Error States -->
+    <string name="loading">Memuat…</string>
+    <string name="empty_list">Tidak ada props ditemukan.</string>
+    <string name="error_loading">Gagal memuat data. Memeriksa koneksi…</string>
+    <string name="no_connection">Tidak ada koneksi internet.</string>
+
+    <!-- First Launch Disclaimer -->
+    <string name="disclaimer_dialog_title">Perhatian</string>
+    <string name="disclaimer_dialog_message">Aplikasi ini tidak resmi dan tidak berafiliasi dengan Garusoft atau Sakura School Simulator. Semua merek dagang adalah milik pemiliknya masing-masing.</string>
+    <string name="disclaimer_agree">Mengerti</string>
+</resources>

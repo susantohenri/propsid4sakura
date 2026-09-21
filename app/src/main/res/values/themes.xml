@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base app theme - Compose handles most theming, this is just a window host -->
+    <style name="Theme.PropsIDForSakura" parent="Theme.AppCompat.DayNight.NoActionBar" />
+
+    <!-- Splash screen theme using SplashScreen API -->
+    <style name="Theme.PropsIDForSakura.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.PropsIDForSakura</item>
+    </style>
+</resources>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.test.propsid4sakura.app-mergeDebugResources-76:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\webhe\\.gradle\\caches\\8.9\\transforms\\2551354b0ccaad93d4fa8891969f655c\\transformed\\core-splashscreen-1.0.1\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                }
+            ]
+        }
+    ]
+}
