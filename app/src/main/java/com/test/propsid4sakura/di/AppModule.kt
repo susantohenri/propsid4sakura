@@ -69,8 +69,8 @@ val appModule = module {
     single { AdManager(androidContext(), get(), get(), get()) }
 
     // ---- ViewModels ----
-    viewModel { HomeViewModel(get(), get(), get()) }
-    viewModel { (propId: String) -> DetailViewModel(propId, get(), get(), get()) }
+    viewModel { HomeViewModel(get(), get()) }
+    viewModel { (propId: String) -> DetailViewModel(propId, get(), get()) }
     viewModel { FavoritesViewModel(get()) }
     viewModel { SettingsViewModel(get()) }
 }

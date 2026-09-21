@@ -13,7 +13,7 @@ class PropsApplication : Application() {
         super.onCreate()
 
         startKoin {
-            androidLogger(if (BuildConfig.DEBUG) Level.DEBUG else Level.NONE)
+            androidLogger(Level.ERROR)
             androidContext(this@PropsApplication)
             modules(appModule)
         }

@@ -25,9 +25,7 @@ data class DetailUiState(
 class DetailViewModel(
     private val propId: String,
     private val propsRepository: PropsRepository,
-    private val adsConfigRepository: AdsConfigRepository,
-    // adManager is accessed from the screen directly for Activity reference
-    private val dummy: Any? = null
+    private val adsConfigRepository: AdsConfigRepository
 ) : ViewModel() {
 
     val adsConfig: StateFlow<AdsConfig> = adsConfigRepository.adsConfig

@@ -35,13 +35,12 @@ class ConsentManager(private val context: Context) {
     ) {
         val params = ConsentRequestParameters.Builder().apply {
             if (BuildConfig.DEBUG) {
-                // Debug settings — uses BuildConfig hash for test device
-                setConsentDebugSettings(
-                    ConsentDebugSettings.Builder(context)
-                        .setDebugGeography(ConsentDebugSettings.DebugGeography.DEBUG_GEOGRAPHY_EEA)
-                        .addTestDeviceHashedId(BuildConfig.CONSENT_DEBUG_DEVICE_HASH)
-                        .build()
-                )
+                val debugBuilder = ConsentDebugSettings.Builder(context)
+                    .setDebugGeography(ConsentDebugSettings.DebugGeography.DEBUG_GEOGRAPHY_EEA)
+                if (BuildConfig.CONSENT_DEBUG_DEVICE_HASH.isNotBlank() && BuildConfig.CONSENT_DEBUG_DEVICE_HASH != "TEST-DEVICE-HASH") {
+                    debugBuilder.addTestDeviceHashedId(BuildConfig.CONSENT_DEBUG_DEVICE_HASH)
+                }
+                setConsentDebugSettings(debugBuilder.build())
             }
         }.build()
 

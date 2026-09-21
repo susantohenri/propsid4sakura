@@ -24,8 +24,7 @@ data class HomeUiState(
 
 class HomeViewModel(
     private val propsRepository: PropsRepository,
-    private val adsConfigRepository: AdsConfigRepository,
-    private val adLoader: AdLoader? = null
+    private val adsConfigRepository: AdsConfigRepository
 ) : ViewModel() {
 
     private val _selectedCategory = MutableStateFlow("")
